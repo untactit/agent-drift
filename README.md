@@ -136,3 +136,6 @@ its own and carries no dependency on it.
 
 MIT. See [LICENSE](LICENSE).
 
+## Related
+
+[agent-fanout](https://github.com/untactit/agent-fanout) — the other half: keep one `AGENTS.md` and generate the file each tool reads, so the copies never diverge to begin with.
