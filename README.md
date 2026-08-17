@@ -139,3 +139,15 @@ MIT. See [LICENSE](LICENSE).
 ## Related
 
 [agent-fanout](https://github.com/untactit/agent-fanout) — the other half: keep one `AGENTS.md` and generate the file each tool reads, so the copies never diverge to begin with.
+
+## Where this came from
+
+The measurements this tool was built for:
+
+- [AGENTS.md was supposed to end the sprawl. I counted the files on one laptop.](https://untactit.com/agents-md-file-sprawl)
+- - [I found 18 versions of the same CLAUDE.md on one laptop](https://untactit.com/eighteen-versions-of-claude-md)
+  - - [Why your AI agent instruction files drift across machines](https://untactit.com/agent-instruction-files-drift)
+   
+    - Built while working on [untactit](https://untactit.com), a control plane for the skills,
+    - rules and memory AI agents run on. This scanner works without it.
+    - 
