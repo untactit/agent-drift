@@ -150,3 +150,12 @@ The measurements this tool was built for:
 
 Built while working on [untactit](https://untactit.com), a control plane for the skills,
 rules and memory AI agents run on. This scanner works without it.
+
+## Field notes
+
+Measured write-ups from the same problem space, on real machines:
+
+- [The ledger said 763 assets. The platforms said about 400.](https://untactit.com/the-ledger-said-763) — auditing an asset database against 21 platforms by ID: ghosts, misses, and false positives
+- [24 of the 30 duplicate groups were not duplicates](https://untactit.com/duplicates-that-were-not) — why title matching is a grouping key, not a judgment
+- [I found 18 versions of the same CLAUDE.md on one laptop](https://untactit.com/eighteen-versions-of-claude-md) — the scan that led to this tool
+- [AGENTS.md was supposed to end the sprawl](https://untactit.com/agents-md-file-sprawl) — 111 AGENTS.md files, 19 distinct contents
