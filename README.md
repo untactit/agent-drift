@@ -155,6 +155,7 @@ rules and memory AI agents run on. This scanner works without it.
 
 Measured write-ups from the same problem space, on real machines:
 
+- [Shopify's "split brain" is not a filename dispute. It is drift, and one standard file will not end it.](https://untactit.com/shopify-split-brain-is-drift) (2026-09-15)
 - [The ledger said 763 assets. The platforms said about 400.](https://untactit.com/the-ledger-said-763) — auditing an asset database against 21 platforms by ID: ghosts, misses, and false positives
 - [24 of the 30 duplicate groups were not duplicates](https://untactit.com/duplicates-that-were-not) — why title matching is a grouping key, not a judgment
 - [I found 18 versions of the same CLAUDE.md on one laptop](https://untactit.com/eighteen-versions-of-claude-md) — the scan that led to this tool
